@@ -1,0 +1,54 @@
+Problem Statement
+
+** Best Playing 11 in T20 WC 2022
+
+selection criteria
+** can chase 180
+** can defend 150
+
+Parameters
+**Openers
+*** Batting average >30
+*** Strike rate >140
+*** Innings played >3
+*** Boundary% >50
+*** Batting position <4
+
+**Middle Orders
+*** Batting average >40
+*** Strike rate >125
+*** Innings played >3
+*** Boundary% >20
+*** Batting position >2
+
+**Finisher
+*** Batting average >25
+*** Strike rate >140
+*** AVg Balls Faced >12
+*** Innings played >3
+*** Batting position >4
+*** Innings bowled>1
+
+**All Rounders/Spinners
+*** Batting Average >15
+*** Strike Rate >140
+*** Innings Batted >2
+*** Batting Position >4
+*** Innings bowled >2
+*** Bowling economy <7
+*** Bowlins Strike rate <20
+
+**Fast Bowlers
+*** Innings Bowled  >4
+*** Bowling Economy <7
+*** Bowling Strike Rate <16
+*** Bowling style Fast
+*** Bowling Average <20
+*** Dot ball % >40
+
+
+
+
+
+
+
